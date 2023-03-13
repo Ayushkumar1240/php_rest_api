@@ -2,7 +2,7 @@
 
 
 header('Content-Type: application/json');
-header('Acess-Control-Allow-Origin: *');
+header('Access-Control-Allow-Origin: *');
 
 //for POST
 // $data = json_decode(file_get_contents("php://input"), true);
